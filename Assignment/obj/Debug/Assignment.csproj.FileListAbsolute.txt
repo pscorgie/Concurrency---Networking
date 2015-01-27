@@ -1,0 +1,33 @@
+E:\CNA\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+E:\CNA\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+E:\CNA\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+E:\CNA\Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+E:\CNA\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+E:\CNA\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Peter\Documents\CNA\Assignment\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Peter\Documents\CNA\Assignment\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Peter\Documents\CNA\Assignment\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Peter\Documents\CNA\Assignment\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Peter\Documents\CNA\Assignment\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Peter\Documents\CNA\Assignment\Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\CNA\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Peter\Documents\CNA\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Peter\Documents\CNA\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Peter\Documents\CNA\Assignment\Assignment - rework\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Peter\Documents\CNA\Assignment\Assignment - rework\Assignment\obj\Debug\Assignment.exe
+C:\Users\Peter\Documents\CNA\Assignment\Assignment - rework\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Peter\Documents\CNA\Assignment\Assignment - rework\Assignment\bin\Debug\Assignment.exe
+C:\Users\Peter\Documents\CNA\Assignment\Assignment - rework\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Peter\Documents\CNA\Assignment\Assignment - rework\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+F:\CNA\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+F:\CNA\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+F:\CNA\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+F:\CNA\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+F:\CNA\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+F:\CNA\Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+E:\CNA\Assignment\Assignment - Socket\Assignment\bin\Debug\Assignment.exe.config
+E:\CNA\Assignment\Assignment - Socket\Assignment\obj\Debug\Assignment.exe
+E:\CNA\Assignment\Assignment - Socket\Assignment\obj\Debug\Assignment.pdb
+E:\CNA\Assignment\Assignment - Socket\Assignment\bin\Debug\Assignment.exe
+E:\CNA\Assignment\Assignment - Socket\Assignment\bin\Debug\Assignment.pdb
+E:\CNA\Assignment\Assignment - Socket\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
